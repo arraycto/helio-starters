@@ -5,6 +5,7 @@
 `helio-starters`基于JDK15，是Helio脚手架及其业务微服务模块的基础支撑构件，可以快速引入其他中间件和基础配置
 
 [官方文档](https://helio.uncarbon.cc/)
+[主要依赖](https://helio.uncarbon.cc/#/i18n/zh-CN/helio-starters/dependencies)
 
 ## Helio系列脚手架
 
